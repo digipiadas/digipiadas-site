@@ -1,6 +1,6 @@
 # Identificação do competidor
 
-Nesta tela você deverá se identificar. Por gentileza, coloque: *<Nome> <Sobrenome> (<Matrícula>)*[^1], onde:
+Nesta tela você deverá se identificar. Por gentileza, coloque: *`<Nome>` `<Sobrenome>` (`<Matrícula>`)*[^1], onde:
 
 - `Nome` é seu primeiro nome;
 - `Sobrenome` é um sobrenome a sua escolha;
