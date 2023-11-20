@@ -1,2 +1,4 @@
 # digipiadas-site
-Site da digipíadas
+Site da digipíadas.
+
+Hospedado em: <https://digipiadas.ifrn.edu.br>.
